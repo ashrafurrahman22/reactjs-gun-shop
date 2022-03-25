@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #1C2B35;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar a {
+    text-decoration: none;
+    margin-left: 18px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700px;
+}
+
+.headerName {
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+}
+
+.headerItem {
+    margin-right: 5%;
+    font-size: 16px;
+}
+
+.navbar a:hover {
+    color: lightgreen;
+}
